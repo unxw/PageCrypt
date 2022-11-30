@@ -1,3 +1,4 @@
+#NOT MINE#
 ## PageCrypt - Password Protect HTML ##
 
 ### Overview ###
